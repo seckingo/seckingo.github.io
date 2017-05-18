@@ -12,7 +12,9 @@
 /**************/
 /* BASE RULES */
 /**************/
-
+header {
+  background-image: url('{{ site.baseurl }}/images/background.jpg');
+}
 html {
   font-size: 100%;
 }
