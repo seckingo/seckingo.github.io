@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Up up and away!
-background: url('{{ site.baseurl }}/images/background.jpg')
 ---
 
 First post, generally an ugly one.
