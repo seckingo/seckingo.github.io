@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Seckin Gorkem Okkar. First system & network admin, later devops engineer, always a student.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like skiing, swimming and fishing. Enthusiast about technology and always curious about life. 
 
 ### Contact me
 
